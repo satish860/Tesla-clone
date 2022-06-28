@@ -17,7 +17,7 @@ export default [
   {
     id: 4,
     name: "Model X",
-    image: "url(Images/model-X.jpg)",
+    image: "url(Images/model-x.jpg)",
   },
   {
     id: 5,
@@ -34,5 +34,4 @@ export default [
     name: "Accessories",
     image: "url(Images/accessories.jpg)",
   },
-  
 ];
